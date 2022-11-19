@@ -8,13 +8,14 @@ body{
 }
 .article{
     padding: 25px;
-    margin: 12% auto;
+    margin: 4% auto 25px auto;
     min-width: 290px;
     max-width: 300px;
     display:block;
     background: white;
     border-radius: 15px;
     text-align: center;
+
 
 }
 .article--img{
